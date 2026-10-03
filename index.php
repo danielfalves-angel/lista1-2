@@ -18,6 +18,9 @@
     <a href="ex_10.php">Exercise 10</a> <br> <br>
     <a href="ex_11.php">Exercise 11</a> <br> <br>
     <a href="ex_12.php">Exercise 12</a> <br> <br>
+    <a href="ex_13.php">Exercise 13</a> <br> <br>
+    <a href="ex_14.php">Exercise 14</a> <br> <br>
+    <a href="ex_15.php">Exercise 15</a> <br> <br>
 
 </body>
 </html>
