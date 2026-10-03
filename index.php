@@ -15,5 +15,6 @@
     <a href="ex_07.php">Exercise 7</a> <br> <br>
     <a href="ex_08.php">Exercise 8</a> <br> <br>
     <a href="ex_09.php">Exercise 9</a> <br> <br>
+    <a href="ex_10.php">Exercise 10</a> <br> <br>
 </body>
 </html>
