@@ -20,8 +20,7 @@
     <a href="ex_11.php">Exercise 11</a>  
     <a href="ex_12.php">Exercise 12</a>  
     <a href="ex_13.php">Exercise 13</a>  
-    <a href="ex_14.php">Exercise 14</a>  
-    <a href="ex_15.php">Exercise 15</a> 
+    <a href="ex_14.php">Exercise 14</a> 
 
     <hr>
 
